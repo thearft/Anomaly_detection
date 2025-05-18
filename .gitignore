@@ -1,0 +1,8 @@
+# skip the heavy model folder entirely
+bert_toniot/
+
+# python cache & envs
+__pycache__/
+*.pyc
+.env/
+.vscode/
